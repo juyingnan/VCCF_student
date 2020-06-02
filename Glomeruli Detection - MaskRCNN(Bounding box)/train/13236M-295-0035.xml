@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>13236M-295-0035.jpg</filename>
+	<path>C:\Users\jashj\Desktop\Tensorflow\models\research\object_detection\images\train\13236M-295-0035.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Glomeruli</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1524</xmin>
+			<ymin>658</ymin>
+			<xmax>1860</xmax>
+			<ymax>973</ymax>
+		</bndbox>
+	</object>
+</annotation>
