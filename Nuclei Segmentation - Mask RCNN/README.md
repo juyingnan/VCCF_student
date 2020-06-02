@@ -11,8 +11,13 @@ Changes:
 
 - nucleus.py: Loading custom dataset for training, testing or prediction
 
+Dataset: https://www.kaggle.com/c/data-science-bowl-2018/data
+
+Weights: https://bit.ly/MaskRCNN_Weights
+
 ### References:
-1. @misc{matterport_maskrcnn_2017,
+1. ```
+@misc{matterport_maskrcnn_2017,
   title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
   author={Waleed Abdulla},
   year={2017},
@@ -20,3 +25,4 @@ Changes:
   journal={GitHub repository},
   howpublished={\url{https://github.com/matterport/Mask_RCNN}},
 }
+```
