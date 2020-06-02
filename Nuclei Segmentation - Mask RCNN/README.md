@@ -16,7 +16,7 @@ Dataset: https://www.kaggle.com/c/data-science-bowl-2018/data
 Weights: https://bit.ly/MaskRCNN_Weights
 
 ### References:
-1. ```
+```latex
 @misc{matterport_maskrcnn_2017,
   title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
   author={Waleed Abdulla},
